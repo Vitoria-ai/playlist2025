@@ -5,4 +5,8 @@ body{
 }
 .chamada{
     background: rgb(62, 197, 89);
+    padding-bottom: 80px;
+    padding-right: 80px;
+    display: flex;
+    justify-content: center;
 }
