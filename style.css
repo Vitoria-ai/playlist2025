@@ -1,15 +1,4 @@
-body{
-    color: white;
-    background-color: black;
-    font-family: "Roboto Condensed", sans-serif;
-}
-.chamada{
-    background: rgb(62, 197, 89);
-    padding-bottom: 80px;
-    padding-right: 80px;
-    display: flex;
-    justify-content: center;
-}
+
 body {
 color: white;
 background-color: black;
